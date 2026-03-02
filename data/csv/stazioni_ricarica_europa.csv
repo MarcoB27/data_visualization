@@ -1,0 +1,155 @@
+region_country,category,parameter,mode,powertrain,year,unit,value,Aggregate group
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2024,charging points,180000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2023,charging points,140000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2024,charging points,120000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2024,charging points,120000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2022,charging points,120000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2023,charging points,99000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2023,charging points,87000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2021,charging points,81000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2022,charging points,74000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2022,charging points,71000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2024,charging points,71000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2020,charging points,63000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2023,charging points,60000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2021,charging points,50000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2021,charging points,50000,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2024,charging points,49000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2019,charging points,46000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2022,charging points,44000,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2023,charging points,40000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2020,charging points,37000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2024,charging points,37000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2018,charging points,36000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2017,charging points,33000,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2024,charging points,32000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2016,charging points,32000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2020,charging points,31000,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2022,charging points,31000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2021,charging points,29000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2019,charging points,28000,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2024,charging points,28000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2019,charging points,26000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2018,charging points,23000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2023,charging points,23000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2017,charging points,20000,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2023,charging points,20000,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2021,charging points,20000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2016,charging points,19000,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2023,charging points,19000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2015,charging points,18000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2020,charging points,18000,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2022,charging points,17000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2018,charging points,17000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2024,charging points,17000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2022,charging points,15000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2018,charging points,15000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2019,charging points,14000,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2024,charging points,13000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2017,charging points,13000,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2020,charging points,12000,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2014,charging points,12000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2023,charging points,12000,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2024,charging points,11000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2016,charging points,11000,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2022,charging points,10000,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2015,charging points,9900,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2021,charging points,9500,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2017,charging points,9400,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2019,charging points,8300,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2015,charging points,8200,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2023,charging points,8100,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2024,charging points,8000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2022,charging points,7800,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2014,charging points,7200,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2022,charging points,7000,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2023,charging points,6600,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2020,charging points,6300,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2020,charging points,6000,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2016,charging points,5800,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2013,charging points,5800,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2021,charging points,5600,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2021,charging points,5500,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2013,charging points,5400,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2023,charging points,5000,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2021,charging points,4900,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2020,charging points,4700,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2015,charging points,4600,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2022,charging points,4500,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2019,charging points,4500,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2018,charging points,4400,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2017,charging points,4300,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2020,charging points,3300,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2016,charging points,3300,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2019,charging points,3200,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2018,charging points,2900,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2018,charging points,2900,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2012,charging points,2800,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2021,charging points,2800,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2012,charging points,2800,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2019,charging points,2700,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2020,charging points,2700,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2021,charging points,2700,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2014,charging points,2600,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2013,charging points,2400,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2017,charging points,2400,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2018,charging points,2300,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2016,charging points,2300,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2020,charging points,2300,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2017,charging points,2200,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2021,charging points,2200,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2022,charging points,2200,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2013,charging points,1700,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2014,charging points,1700,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2016,charging points,1700,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2015,charging points,1700,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available slow,2012,charging points,1500,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2020,charging points,1500,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2011,charging points,1500,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2012,charging points,1400,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2013,charging points,1400,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available slow,2014,charging points,1400,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2015,charging points,1400,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2019,charging points,1300,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2019,charging points,1100,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2018,charging points,1100,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2019,charging points,1100,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2016,charging points,1000,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2017,charging points,1000,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2017,charging points,920,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2018,charging points,820,#NAME?
+France,Historical,EV charging points,EV,Publicly available slow,2012,charging points,800,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2013,charging points,800,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2014,charging points,800,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2016,charging points,780,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2018,charging points,700,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2015,charging points,580,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2015,charging points,540,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2015,charging points,470,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2017,charging points,460,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2017,charging points,440,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2018,charging points,440,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2017,charging points,410,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2010,charging points,400,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2011,charging points,400,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2016,charging points,400,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available slow,2012,charging points,400,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2016,charging points,360,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2014,charging points,250,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2015,charging points,240,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2015,charging points,220,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2016,charging points,170,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2014,charging points,120,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2014,charging points,120,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2014,charging points,110,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2014,charging points,110,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2013,charging points,100,#NAME?
+Spain,Historical,EV charging points,EV,Publicly available fast,2013,charging points,91,#NAME?
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2013,charging points,80,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2015,charging points,70,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2013,charging points,47,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2012,charging points,21,#NAME?
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2013,charging points,21,#NAME?
+Germany,Historical,EV charging points,EV,Publicly available fast,2012,charging points,18,#NAME?
+Italy,Historical,EV charging points,EV,Publicly available fast,2014,charging points,10,#NAME?
+France,Historical,EV charging points,EV,Publicly available fast,2012,charging points,9,#NAME?
