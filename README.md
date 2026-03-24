@@ -26,4 +26,4 @@ Per consultare la presentazione interattiva visitare il link indicato in `presen
 
 ## Licenza
 
-Il contenuto di questo progetto è distribuito sotto licenza **Apache 2.0**. Fare riferimento al file `LICENSE` per i dettagli.
+Il contenuto di questo progetto è distribuito sotto licenza **BSD 2-Clause License**. Fare riferimento al file `LICENSE` per i dettagli.
