@@ -2,4 +2,9 @@ Motus-E:
     Le Infrastrutture di Ricarica a Uso Pubblico in Italia (2024): https://www.motus-e.org/wp-content/uploads/2025/03/Motus-E.-Le-infrastrutture-di-ricarica-a-uso-pubblico-in-Italia-2024.pdf
     Le Infrastrutture di Ricarica a Uso Pubblico in Italia (2023): https://www.motus-e.org/wp-content/uploads/2024/04/Motus-E.-Le-infrastrutture-di-ricarica-a-uso-pubblico-in-Italia-2023-executive-summary.pdf
     Le Infrastrutture di Ricarica a Uso Pubblico in Italia (2022): https://www.motus-e.org/wp-content/uploads/2023/02/Report-Infrastrutture-di-ricarica-a-uso-pubblico-Italia-quarta-edizione.pdf
+ISTAT:
+    Dati sulla mobilità Italiana: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0920ENV,1.0/ENV_CITIES/DCCV_URBANENV_URBMOB/IT1,609_1_DF_DCCV_URBANENV_12,1.0
 
+EUROSTAT:
+    Dati sulla mobilità europa: https://ec.europa.eu/eurostat/databrowser/view/road_eqr_carpda/default/table?lang=en&category=road.road_eqr
+    Dati sullo stock di veicoli in europa: https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carpda/default/table?lang=en&category=road.road_eqs
